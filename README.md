@@ -13,8 +13,14 @@ Similar to the Week 4 project, this program reads a list of Integer numbers from
 ### Installation
 1. Download the desired .java file
 2. Navigate to its file location using the terminal
-3. Use javac filenamehere.java to compile the code
-4. Use java filenamehere.java to run the program
+3. Use the following to complie the code:
+```bash
+javac filenamehere.java
+```
+4. Run the program using:
+```bash
+java filenamehere.java
+```
 ### Usage
 Both programs will ask the user to first enter the total number of integers they would like to see in either the Linked List or Stack. The user will then be prompted to continue to enter integers specified by the previous entry of total number of integers. Both programs will then display the sorted Linked Link or Stack.
 ### Contact
